@@ -23,6 +23,17 @@ or add new features over time while studying Clang.
 make
 ./triangle
 ```
+# Configuration
+Triangle generation configuration inside of *triangle.c* through this block:
+```c
+#include <stdio.h>
+#define end_length 49
+#define character "*" // String character
+#define wide_length 2
+```
+`end_length`: Triangle's base width.\
+`character`: Character of the triangle. As string.\
+`wide_length`: Triangle's wide length
 
 # Features
 There are currently no features for now 😞
