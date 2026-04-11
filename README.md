@@ -14,8 +14,7 @@ The code is just a simple personal exercise to learn C programming language by g
 Variations in shape depend on character, length and width that provided with diverse visual representations.
 
 The project was conceived during personal studies to enhance,
-understanding and improving coding skills. As I occasionally updates
-or add new features over time while studying Clang.
+understanding and improving coding skills.
 
 # Installation
 **CTriangle**,  built with just C standard libraries. To install, simply clone the repository onto your local machine, compile then run the program.
@@ -36,8 +35,7 @@ Triangle generation configuration inside of *triangle.c* through this block:
 `wide_length`: Triangle's wide length
 
 # Features
-There are currently no features for now 😞
-> Please stay tuned.
+There's no features but just print a triangle 📐 
 
 # License
 This program is outlined by [MIT Open Source License](https://github.com/waxodium/CTriangle/blob/main/LICENSE).
