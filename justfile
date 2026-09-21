@@ -6,3 +6,5 @@ c:
     ./build/trianglec
 js: 
     node index.js
+clean:
+    rm -rf build/
