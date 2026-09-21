@@ -27,7 +27,7 @@ SOFTWARE.
 */
 
 #include <stdio.h>
-#define end_length 49
+#define end_length 15
 #define character "*" // String character
 #define wide_length 2
 

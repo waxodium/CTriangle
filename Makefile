@@ -1,10 +1,10 @@
 CC = gcc
 CFLAGS = -Wall -Wextra
-TARGET = triangle
+TARGET = trianglec
 
 
 all: $(TARGET)
 $(TARGET): triangle.c
-	$(CC) $(CFLAGS) -o $(TARGET) triangle.c
+	$(CC) $(CFLAGS) -o ./build/$(TARGET) triangle.c
 clean:
 	rm -f $(TARGET)
